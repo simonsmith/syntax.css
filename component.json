@@ -2,7 +2,7 @@
   "name": "syntax.css",
   "repo": "simonsmith/syntax.css",
   "styles": ["syntax.css"],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Simon Smith",
   "license": "MIT"
 }
